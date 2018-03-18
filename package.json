@@ -1,0 +1,22 @@
+{
+  "name": "05_session_3_18_2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "mocha": "^5.0.4",
+    "mysql2": "^1.5.2",
+    "sequelize": "^4.37.1"
+  }
+}

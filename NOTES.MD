@@ -1,0 +1,4 @@
+- passport
+- handlebars
+- testing
+- sequelize
